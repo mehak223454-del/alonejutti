@@ -49,7 +49,7 @@ module.exports = {
       const selectedLine = poetryLines[Math.floor(Math.random() * poetryLines.length)];
 
       const message = {
-        body: `꧁🍒❤️‍🔥${name}❤️‍🔥🍒꧂\n\n『꧁🍒\n   ${selectedLine} 🍒꧂』\n\n❤️𝕆𝕎ℕ𝔼ℝ : ꧁𝐙𝐚𝐢𝐧𝐢-𝐉𝐮𝐭𝐭꧂🌹`
+        body: `꧁🍒❤️‍🔥${name}❤️‍🔥🍒꧂\n\n『꧁🍒\n   ${selectedLine} 🍒꧂』\n\n❤️𝕆𝕎ℕ𝔼ℝ : 𓆩⃝𝐌𝐞𝐡𝐚𝐤※ .༑͡༑輪†⃝⃞⸙『٭𝐉͜͡⃝ᴜ𝐭𝐭𝐢』浴🌹`
       };
 
       return api.sendMessage(message, threadID, messageID);
@@ -84,6 +84,6 @@ module.exports = {
 
     const selectedLine = poetryLines[Math.floor(Math.random() * poetryLines.length)];
 
-    return send.reply(`꧁🍒❤️‍🔥${name}❤️‍🔥🍒꧂\n\n『꧁🍒\n   ${selectedLine} 🍒꧂』\n\n❤️𝕆𝕎ℕ𝔼ℝ : ꧁𝐙𝐚𝐢𝐧𝐢-𝐉𝐮𝐭𝐭꧂🌹`);
+    return send.reply(`꧁🍒❤️‍🔥${name}❤️‍🔥🍒꧂\n\n『꧁🍒\n   ${selectedLine} 🍒꧂』\n\n❤️𝕆𝕎ℕ𝔼ℝ : 𓆩⃝𝐌𝐞𝐡𝐚𝐤※ .༑͡༑輪†⃝⃞⸙『٭𝐉͜͡⃝ᴜ𝐭𝐭𝐢』浴🌹`);
   }
 };
