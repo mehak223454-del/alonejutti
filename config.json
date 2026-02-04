@@ -1,11 +1,11 @@
 {
-  "BOTNAME": "SARDAR RDX",
-  "BOTNICK": "{ . } × SARDAR RDX",
+  "BOTNAME": "𓆩⃝𝐌𝐞𝐡𝐚𝐤※ .༑͡༑輪†⃝⃞⸙『٭𝐉͜͡⃝ᴜ𝐭𝐭𝐢』浴",
+  "BOTNICK": "𓆩⃝𝐂𝐚𝐭𝐨※ .༑͡༑",
   "PREFIX": ".",
   "ADMINBOT": [
-    "100009012838085",
-    "61582076572381",
-    "100065216344877"
+    "61578393323391",
+    "",
+    ""
   ],
   "REACT_DELETE_EMOJI": "😡",
   "PREFIX_ENABLED": true,
@@ -13,5 +13,5 @@
   "AUTO_ISLAMIC_POST": true,
   "AUTO_GROUP_MESSAGE": true,
   "TIMEZONE": "Asia/Karachi",
-  "APPROVE_ONLY": false
+  "APPROVE_ONLY": true
 }
